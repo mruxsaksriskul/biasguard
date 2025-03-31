@@ -2,17 +2,20 @@ name: Rule Validator and Auto Merge
 
 on:
   pull_request:
-    paths:
-      - 'rules/**.yml'
+    branches: [main]
 
 jobs:
   validate-rule:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Run BiasGuard Validator
         run: python3 scripts/rule_validator.py rules/
+
       - name: Enable Auto-Merge
+        if: github.event_name == 'pull_request'
         uses: peter-evans/enable-pull-request-automerge@v2
         with:
+          pull-request-number: ${{ github.event.pull_request.number }}
           merge-method: squash

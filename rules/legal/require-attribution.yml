@@ -1,3 +1,4 @@
+# test edit for BiasGuard CI
 description: Require attribution when external sources are used
 category: legal
 tags: [attribution, citation, hallucination]

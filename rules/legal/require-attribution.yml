@@ -1,0 +1,9 @@
+description: Require attribution when external sources are used
+category: legal
+tags: [attribution, citation, hallucination]
+status: approved
+version: 1.0.0
+risk: medium
+rule:
+  type: output_contains
+  pattern: "(Source|Reference|Citation):"

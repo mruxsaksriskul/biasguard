@@ -1,38 +1,49 @@
-# 🛡️BiasGuard (BG) 🚨
+# BiasGuard
 
-**BiasGuard is an AI policy enforcement framework for generative AI (GenAI) and agentic systems**, enabling compliance-as-code practices across model development, deployment, and operations. Built to address emerging concerns in transparency, attribution, and fairness, BiasGuard provides a modular rules engine to codify bias detection, attribution enforcement, and explainability checks directly into MLOps and CI/CD workflows.
+![BiasGuard Logo](./assets/biasguard-logo-motto.png)
 
-Inspired by tools like CloudFormation Guard and Open Policy Agent (OPA), BiasGuard is designed to work across cloud-native ecosystems and support both automated pipelines and runtime policy enforcement.
+BiasGuard is an AI policy enforcement framework built to make AI systems accountable, auditable, and aligned with ethical and legal standards from the start. By integrating into modern AI/ML pipelines, BiasGuard provides codified bias prevention, transparency, and compliance through an open-core engine.
 
-You’ve seen the signs:
-- *The lawyer citing fake ChatGPT cases in court*
-- *Dragnet-style LLM scraping* without attribution
-- *Silent model-to-model calls* with no audit trail or disclosure
+## What is BiasGuard?
 
-**BiasGuard is the compliance layer for AI we urgently need.**
+![What is BiasGuard?](./assets/what_is_biasguard.png)
+*Explain Like I'm 6:*  
+BiasGuard is like a superhero for AI — it helps catch and prevent biases before they cause problems!
 
-🔗 **Repository:** [https://github.com/mruxsaksriskul/biasguard](https://github.com/mruxsaksriskul/biasguard)
+## Integration
+
+BiasGuard integrates seamlessly with modern development workflows using GitHub Actions. Our current integration supports API-driven connections to platforms like AWS Bedrock, SageMaker, and Apigee. 
+
+![Integration Workflow](./assets/integration_slide.png)
+
+This integration ensures that policy enforcement is automated and consistent, providing real-time feedback as rules are applied through your CI/CD pipelines.
+
+## Workflow
+
+The contribution and enforcement process is streamlined using GitHub Actions:
+
+- **Rule Submission:** Contributors submit new rules via pull requests.
+- **Validation:** Automated linting and validation ensure consistency.
+- **Enforcement:** The system deploys the rules into production environments, demonstrated by our CI/CD workflows.
+
+![Rule Workflow](./assets/BiasGuardRuleWorkflow.png)
+
+![Full CI/CD Loop](./assets/FullLoopPRWorkflow.png)
+
+## Taxonomy & Rule Organization
+
+Our rules are organized into clear taxonomies to help teams quickly identify and implement the relevant policies. 
+
+![Rule Taxonomy](./assets/biasguardtaxonomydiagram.png)
+
+## Contact
+
+For more information or inquiries, please reach out:
+
+**Michael Ruxsaksriskul**  
+Founder & CEO  
+[**biasguard.h0stname.net**](http://biasguard.h0stname.net) | [m.ruxsaksriskul@gmail.com](mailto:m.ruxsaksriskul@gmail.com)
 
 ---
 
-## 🌐 Planned Integrations:
-- AWS SageMaker, Bedrock
-- API Gateways: Kong, Apigee
-- CI/CD tools: GitHub Actions, GitLab CI, Jenkins
-- MLOps platforms: MLflow, Vertex AI, Azure ML
-
----
-
-## 🤝 Want to Contribute?
-BiasGuard is currently incubating under **Diamond in the Rux LLC** and entering its proof-of-concept (POC) phase. If you're passionate about responsible AI, agentic safety, or open standards in AI compliance—let’s build this together.
-
-
-
-
-## 📁 Repo Structure
-
-- `/rules/` — YAML rule definitions organized by domain
-- `/scripts/` — CLI validators and tools
-- `.github/workflows/` — CI/CD automation
-- `/docs/` — Architecture and governance docs
-- `/BiasGuard/` — Core utilities and mappings
+*This README is part of BiasGuard's open-source initiative and serves as a comprehensive guide to our platform, workflows, and integration processes.*

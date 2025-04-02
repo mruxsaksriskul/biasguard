@@ -1,6 +1,4 @@
-# BiasGuard
-
-![BiasGuard Logo](./assets/biasguard-logo-motto.png)
+<img src="./assets/biasguard-logo-motto.png" alt="BiasGuard Logo" width="350"/>
 
 BiasGuard is an AI policy enforcement framework built to make AI systems accountable, auditable, and aligned with ethical and legal standards from the start. By integrating into modern AI/ML pipelines, BiasGuard provides codified bias prevention, transparency, and compliance through an open-core engine.
 

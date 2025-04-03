@@ -18,10 +18,12 @@ AI systems are becoming more powerful — and more unpredictable.
 - 🌐 Dragnet-style scraping of public content by LLMs  
 - 🤖 Models chaining to external systems, without attribution or oversight
 
+<img src="./assets/why-we-need-biasguard.png" alt="Why We Need BiasGuard 1" width="100%"/>
+
 **BiasGuard is our answer.**  
 A socio-codified trust layer that embeds behavioral safeguards, legal clauses, and ethical governance directly into model pipelines — before harm occurs.
 
-<img src="./assets/why-we-need-biasguard.png" alt="Why We Need BiasGuard" width="100%"/>
+<img src="./assets/why-we-need-biasguard2.png" alt="Why We Need BiasGuard 2" width="100%"/>
 
 ---
 

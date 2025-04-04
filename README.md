@@ -1,5 +1,15 @@
 <img src="./assets/biasguard-logo-motto-header.png" alt="BiasGuard Logo" width="100%"/>
 
+Thank You for Choosing to Deal with Bias—Within AI, Within Yourself, and Beyond
+
+Did you hesitate before clicking the link? It’s okay, I would too. You might have questioned the name, wondering whether BiasGuard could really live up to its promise of addressing bias. That hesitation? It’s bias—the very thing we’re here to confront.
+
+You see, bias is something we all carry—often without realizing it. It's subconscious and instantaneous, triggered by our experiences, societal influences, and yes, even how we engage with technology. When you paused to think, you engaged with the bias reflex. This is true for AI as well: algorithms and models can perpetuate the biases they’re trained on, leading to flawed outcomes and inaccuracies.
+
+But here's the thing—now you’ve taken the first step toward confronting that bias. BiasGuard is designed to help you identify and address bias in AI, so you can build systems that are not only effective, but also ethical, accountable, and fair. This isn’t just about cleaning up algorithms; it’s about taking responsibility—both within AI and within ourselves.
+
+---
+
 # 🛡️ BiasGuard: The Indispensable Trust Layer for Responsible AI
 
 **BiasGuard** is an AI policy enforcement framework built to make AI systems accountable, auditable, and aligned with ethical and legal standards from the start. By integrating directly into AI/ML pipelines, BiasGuard provides codified bias prevention, transparency, and compliance through an open-core rule engine.

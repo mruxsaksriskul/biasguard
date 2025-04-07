@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://biasguard.h0stname.net/sitemap.xml

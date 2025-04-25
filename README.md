@@ -1,12 +1,21 @@
 <img src="./assets/biasguard-logo-motto-header.png" alt="BiasGuard Logo" width="100%"/>
 
-Thank You for Choosing to Deal with Bias—Within AI, Within Yourself, and Beyond
+## Thank You for Choosing to Deal with Bias — Within AI, Within Yourself, and Beyond
 
-Did you hesitate before clicking the link? It’s okay, I would too. You might have questioned the name, wondering whether BiasGuard could really live up to its promise of addressing bias. That hesitation? It’s bias—the very thing we’re here to confront.
+Did you hesitate before clicking the link for `biasguard.h0stname.net`? It’s okay — I would too. You might have questioned the name, wondering whether BiasGuard could really live up to its promise of addressing bias. That hesitation? It’s bias — the very thing we’re here to confront.
 
-You see, bias is something we all carry—often without realizing it. It's subconscious and instantaneous, triggered by our experiences, societal influences, and yes, even how we engage with technology. When you paused to think, you engaged with the bias reflex. This is true for AI as well: algorithms and models can perpetuate the biases they’re trained on, leading to flawed outcomes and inaccuracies.
+You may notice that after clicking, the domain in your browser bar now shows `biasguard.biascompliance.ai`.  
+That’s intentional.  
+Both domains — `biasguard.h0stname.net` and `biasguard.biascompliance.ai` — serve the same exact site, from the same trusted host.  
+The difference you see is only in appearance — a real-world reflection of how subtle bias can influence trust before substance is even evaluated.
 
-But here's the thing—now you’ve taken the first step toward confronting that bias. BiasGuard is designed to help you identify and address bias in AI, so you can build systems that are not only effective, but also ethical, accountable, and fair. This isn’t just about cleaning up algorithms; it’s about taking responsibility—both within AI and within ourselves.
+You see, bias is something we all carry — often without realizing it. It’s subconscious and instantaneous, triggered by our experiences, societal influences, and yes, even how we engage with technology. When you paused to think, you engaged with the bias reflex.
+
+This is true for AI as well: algorithms and models can perpetuate the biases they’re trained on, leading to flawed outcomes and inaccuracies.
+
+But here’s the thing — now you’ve taken the first step toward confronting that bias. BiasGuard is designed to help you identify and address bias in AI, so you can build systems that are not only effective, but also ethical, accountable, and fair.
+
+This isn’t just about cleaning up algorithms; it’s about taking responsibility — both within AI and within ourselves.
 
 ---
 

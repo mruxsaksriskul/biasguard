@@ -1,6 +1,10 @@
 <img src="./assets/biasguard-logo-motto-header.png" alt="BiasGuard Logo" width="100%"/>
 
+<<<<<<< Updated upstream
 ## Thank You for Choosing to Deal with Bias — Within AI, Within Yourself, and Beyond
+=======
+Thank You for Choosing to Deal with Bias—Within AI, Within Yourself, and Beyond!
+>>>>>>> Stashed changes
 
 Did you hesitate before clicking the link for `biasguard.h0stname.net`? It’s okay — I would too. You might have questioned the name, wondering whether the domain was legitimate or safe. Maybe even whether BiasGuard could really live up to its promise of addressing bias.  
 That hesitation? It’s bias — the very thing we’re here to confront.

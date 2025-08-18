@@ -30,6 +30,24 @@ This isn’t just about cleaning up algorithms; it’s about taking responsibili
 
 ---
 
+## 🚀 COMPAS MVP Quickstart
+
+The COMPAS Minimum Viable Product demonstrates BiasGuard's rule-driven
+scanning on a small sample of the ProPublica COMPAS dataset. To run the
+baseline scan locally:
+
+```bash
+python bgcore_runner.py --rules rules/compas_base.yaml --data datasets/compas.csv
+```
+
+This placeholder command validates the repository wiring and will be
+expanded in later tickets to produce detailed reports and CI enforcement.
+
+GitHub Actions workflows in `.github/workflows/` will invoke the same
+runner to keep results reproducible.
+
+---
+
 ## ⚠️ Why We Need BiasGuard
 
 AI systems are becoming more powerful — and more unpredictable.

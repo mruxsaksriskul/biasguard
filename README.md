@@ -2,7 +2,7 @@
 
 Thank You for Choosing to Deal with Bias—Within AI, Within Yourself, and Beyond!
 
-You may have been routed here from http://biasguard.host2go.net/. If so did you hesitate before clicking the link for `biasguard.host2go.net`? It’s okay if you did — I would too. You might have questioned the name, wondering whether the domain was legitimate or safe. Maybe even whether BiasGuard could really live up to its promise of addressing bias.  
+You may have been routed here from [biasguard.host2go.net](http://biasguard.host2go.net). If so did you hesitate before clicking the link for `biasguard.host2go.net`? It’s okay if you did — I would too. You might have questioned the name, wondering whether the domain was legitimate or safe. Maybe even whether BiasGuard could really live up to its promise of addressing bias.  
 That hesitation? It’s bias — the very thing we’re here to confront.
 
 You may notice that the domain in your browser bar now shows `biasguard.biascompliance.ai`.  

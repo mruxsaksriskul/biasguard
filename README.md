@@ -2,11 +2,11 @@
 
 Thank You for Choosing to Deal with Bias—Within AI, Within Yourself, and Beyond!
 
-Did you hesitate before clicking the link for `biasguard.h0stname.net`? It’s okay — I would too. You might have questioned the name, wondering whether the domain was legitimate or safe. Maybe even whether BiasGuard could really live up to its promise of addressing bias.  
+You may have been routed here from http://biasguard.host2go.net/. If so did you hesitate before clicking the link for `biasguard.host2go.net`? It’s okay if you did — I would too. You might have questioned the name, wondering whether the domain was legitimate or safe. Maybe even whether BiasGuard could really live up to its promise of addressing bias.  
 That hesitation? It’s bias — the very thing we’re here to confront.
 
-You may notice that after clicking, the domain in your browser bar now shows `biasguard.biascompliance.ai`.  
-That’s intentional. Both domains — `biasguard.h0stname.net` and `biasguard.biascompliance.ai` — serve the exact same site, from the same trusted host.  
+You may notice that the domain in your browser bar now shows `biasguard.biascompliance.ai`.  
+That’s intentional. Both domains — `biasguard.host2go.net` and `biasguard.biascompliance.ai` — serve the exact same site, from the same trusted host.  
 The difference you see is only in appearance — a real-world reflection of how subtle bias can influence trust before substance is even evaluated.
 
 You see, bias is something we all carry — often without realizing it. It’s subconscious and instantaneous, triggered by our experiences, societal influences, and yes, even how we engage with technology. When you paused to think, you engaged with the bias reflex.
@@ -111,9 +111,9 @@ This structure ensures that rules are traceable, scalable, and enforceable acros
 ## 🙌 Get Involved
 
 - 📬 Contact: [m.ruxsaksriskul@gmail.com](mailto:m.ruxsaksriskul@gmail.com)  
-- 🌐 Visit: [biasguard.h0stname.net](http://biasguard.h0stname.net)  
+- 🌐 Visit: [biasguard.host2go.net](http://biasguard.host2go.net)  
 - 💡 Star / Fork / Watch: [GitHub Repo](https://github.com/mruxsaksriskul/biasguard)  
-- 🤝 Contribute: Submit a rule, share a use case, or help us map legal frameworks
+- 🤝 Contribute: Submit a rule, share a use case, or help us map legal frameworks to policy.
 
 ---
 

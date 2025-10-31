@@ -2,16 +2,14 @@
 
 Thank You for Choosing to Deal with Bias—Within AI, Within Yourself, and Beyond!
 
-You may have been routed here from [biasguard.host2go.net](http://biasguard.host2go.net). If so did you hesitate before clicking the link for `biasguard.host2go.net`? It’s okay if you did — I would too. You might have questioned the name, wondering whether the domain was legitimate or safe. Maybe even whether BiasGuard could really live up to its promise of addressing bias.  
-That hesitation? It’s bias — the very thing we’re here to confront.
+You may have been routed here from [biasguard.host2go.net](http://biasguard.host2go.net). If so did you hesitate before clicking the link for `biasguard.host2go.net`? It’s okay if you did — I would too. You might have questioned the name, wondering whether the domain was legitimate or safe. Maybe even whether BiasGuard could really live up to its promise of addressing bias. That hesitation? It’s bias — the very thing we’re here to confront.
 
 You may notice that the domain in your browser bar now shows `biasguard.biascompliance.ai`.  
 That’s intentional. Both domains — `biasguard.host2go.net` and `biasguard.biascompliance.ai` — serve the exact same site, from the same trusted host.  
+
 The difference you see is only in appearance — a real-world reflection of how subtle bias can influence trust before substance is even evaluated.
 
-You see, bias is something we all carry — often without realizing it. It’s subconscious and instantaneous, triggered by our experiences, societal influences, and yes, even how we engage with technology. When you paused to think, you engaged with the bias reflex.
-
-This is true for AI as well: algorithms and models can perpetuate the biases they’re trained on, leading to flawed outcomes and inaccuracies.
+You see, bias is something we all carry — often without realizing it. It’s subconscious and instantaneous, triggered by our experiences, societal influences, and yes, even how we engage with technology. When you paused to think, you engaged with the bias reflex. This is true for AI as well: algorithms and models can perpetuate the biases they’re trained on, leading to flawed outcomes and inaccuracies.
 
 But here’s the thing — now you’ve taken the first step toward confronting that bias.  
 BiasGuard is designed to help you identify and address bias in AI, so you can build systems that are not only effective, but also ethical, accountable, and fair.
